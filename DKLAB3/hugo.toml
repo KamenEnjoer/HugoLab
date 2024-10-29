@@ -1,0 +1,4 @@
+baseURL = 'https://KamenEnjoer.github.io/'
+languageCode = 'en-us'
+title = 'Labora'
+theme = 'hugo-PaperMod-master'
